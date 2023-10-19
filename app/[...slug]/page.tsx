@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import { allPages } from "contentlayer/generated";
+import { allAuthors } from "contentlayer/generated";
 
 import "@/styles/mdx.css";
 
